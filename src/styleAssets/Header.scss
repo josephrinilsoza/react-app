@@ -1,0 +1,16 @@
+.header {
+  background-color: #231f20;
+  width: 100%;
+  color: #ffffff;
+  height: 80px;
+  .appName {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: sans-serif;
+  }
+  .mainMenu {
+    cursor: pointer;
+    color:#f7f7f7;
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,26 @@
+.content {
+  background-color: #f7f7f7;
+  .welcome-text {
+    color: #231f20;
+    font-weight: 600;
+    font-size: 25px;
+  }
+  .card {
+    height: 200px;
+    background-color: #2f2f2f;
+    .add-user-text {
+      color: #f7f7f7;
+    }
+    .add-btn {
+      background-color: #2f2f2f;
+      color: #ffffff;
+      border: 1px solid #eaedf0;
+      border-radius: 5px;
+      width: 75%;
+    }
+    .name-text {
+      color: #ffffff;
+      font-family: fantasy;
+    }
+  }
+}
