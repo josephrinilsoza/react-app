@@ -18,7 +18,7 @@ class Header extends Component {
           <Link to="/" className="mainMenu">Home</Link>
           <Link to="about" className="mainMenu">About us</Link>
           <Link to="contact" className="mainMenu">Contact us</Link>
-          <Link to="/faq" className="mainMenu">Faq</Link>
+          <Link to="/faq" className="mainMenu">Support</Link>
         </div>
       </div>
     );
